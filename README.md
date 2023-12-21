@@ -1,7 +1,6 @@
-- 👋 Hola, mi nombre es Carlos y tengo 16 años
+- 👋 Hola, mi nombre es Carlos
 - 👀 Actualmente estoy haciendo proyectos en FiveM
 - 🌱 Controlo Lua, html y css de otros lenguajes se algo 
-- 💞️ En estos momentos peretenzcoa a la comunidad de MR.SERVICE https://discord.gg/MAmwt33kdN
 - 📫 ¿Como me puedes contatctar? Puedes hacerlo a traves de instagram 'carseror' o discord '!Carlos#9117'
 
 <!---
